@@ -1,0 +1,55 @@
+[
+  {
+    "label": "Home",
+    "href": "index.html",
+    "id": "home"
+  },
+  {
+    "label": "About",
+    "href": "about.html",
+    "id": "about"
+  },
+  {
+    "label": "Services",
+    "href": "services.html",
+    "id": "services",
+    "children": [
+      {
+        "label": "All Services",
+        "href": "services.html"
+      },
+      {
+        "label": "Real Estate Development",
+        "href": "real-estate.html"
+      },
+      {
+        "label": "Construction & Civil",
+        "href": "construction.html"
+      },
+      {
+        "label": "Interiors & Fit-outs",
+        "href": "interiors.html"
+      }
+    ]
+  },
+  {
+    "label": "Projects",
+    "href": "projects.html",
+    "id": "projects"
+  },
+  {
+    "label": "Gallery",
+    "href": "gallery.html",
+    "id": "gallery"
+  },
+  {
+    "label": "Our Approach",
+    "href": "approach.html",
+    "id": "approach"
+  },
+  {
+    "label": "Contact",
+    "href": "contact.html",
+    "id": "contact"
+  }
+]

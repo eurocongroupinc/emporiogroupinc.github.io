@@ -1,0 +1,58 @@
+[
+  {
+    "id": "real-estate-development",
+    "title": "Real Estate Development",
+    "short": "Development-led thinking for residential and commercial opportunities.",
+    "description": "Explore development opportunities through considered planning, coordination and a clear understanding of project goals. The exact scope of each engagement is confirmed with the client.",
+    "icon": "01"
+  },
+  {
+    "id": "residential-construction",
+    "title": "Residential Construction",
+    "short": "Residential spaces shaped around people and place.",
+    "description": "Residential construction concepts for homes and multi-unit living environments, with project requirements, technical scope and delivery responsibilities agreed for each engagement.",
+    "icon": "02"
+  },
+  {
+    "id": "commercial-construction",
+    "title": "Commercial Construction",
+    "short": "Functional environments for business and enterprise.",
+    "description": "Commercial building and construction opportunities approached with attention to usability, planning coordination and the requirements of each site and client.",
+    "icon": "03"
+  },
+  {
+    "id": "civil-engineering",
+    "title": "Civil Engineering",
+    "short": "A considered approach to civil works and coordination.",
+    "description": "Civil engineering-related planning and coordination for development projects. Specific engineering design, approvals and execution responsibilities are subject to project scope and qualified appointments.",
+    "icon": "04"
+  },
+  {
+    "id": "infrastructure-development",
+    "title": "Infrastructure Development",
+    "short": "Infrastructure that supports connected communities and places.",
+    "description": "Infrastructure development opportunities across project planning and coordination. Project-specific capabilities, approvals and delivery arrangements are confirmed before engagement.",
+    "icon": "05"
+  },
+  {
+    "id": "land-development",
+    "title": "Land Development",
+    "short": "Preparing land and opportunity for thoughtful development.",
+    "description": "Land development planning and related coordination, taking account of site conditions, project objectives and statutory requirements.",
+    "icon": "06"
+  },
+  {
+    "id": "interior-design-fitouts",
+    "title": "Interior Design & Fit-outs",
+    "short": "Interiors that balance character, function and detail.",
+    "description": "Interior design and fit-out concepts for residential and commercial environments, including space planning, material direction and coordination of agreed works.",
+    "icon": "07"
+  },
+  {
+    "id": "renovation-refurbishment",
+    "title": "Renovation & Refurbishment",
+    "short": "Renewing existing spaces with a fresh perspective.",
+    "description": "Renovation and refurbishment opportunities designed around the existing property, intended use, constraints and agreed scope of work.",
+    "icon": "08"
+  }
+]

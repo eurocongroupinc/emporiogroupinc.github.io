@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Contemporary Architecture",
+    "image": "hero-architecture.jpg",
+    "category": "Architecture",
+    "caption": "Illustrative architectural imagery"
+  },
+  {
+    "title": "Commercial Architecture",
+    "image": "commercial-towers.jpg",
+    "category": "Commercial",
+    "caption": "Illustrative architectural imagery"
+  },
+  {
+    "title": "Residential Design",
+    "image": "modern-residence.jpg",
+    "category": "Residential",
+    "caption": "Illustrative architectural imagery"
+  },
+  {
+    "title": "Construction in Progress",
+    "image": "construction-site.jpg",
+    "category": "Construction",
+    "caption": "Illustrative construction imagery"
+  },
+  {
+    "title": "Urban Development",
+    "image": "urban-development.jpg",
+    "category": "Development",
+    "caption": "Illustrative development imagery"
+  }
+]
